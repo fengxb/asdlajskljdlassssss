@@ -130,7 +130,7 @@
         <div class="navTab-panel tabsPageContent layoutBox">
             <div class="page unitBox">
                 <div class="accountInfo">
-                    <p><span>下午好!<shiro:principal/></span></p>
+                    <p><span>您好!<shiro:principal/></span></p>
                     <p id="currentTime"></p>
                 </div>
                 <div class="pageFormContent" layoutH="80" style="margin-right:230px">
